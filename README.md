@@ -4,7 +4,7 @@ Source shell script provided.
 
 It will disable the root user in the /etc/passwd file + in the Directory Service of Mac Os X
 
-You can provide this binary to quickly fix the vulnerability that allows anyone to login, (remotly via Screen Sharing if enabled) as the root user without a password.
+You can provide this binary to your users to quickly fix the vulnerability that allows anyone to login, (remotly via Screen Sharing if enabled) as the root user without a password.
 
 Source of the vuln:
 https://www.wired.com/story/macos-high-sierra-hack-root/
