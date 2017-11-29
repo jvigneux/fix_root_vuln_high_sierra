@@ -9,3 +9,7 @@ You can provide this binary to your users to quickly fix the vulnerability that 
 Source of the vuln:
 https://www.wired.com/story/macos-high-sierra-hack-root/
 
+* runme.app : The compiled shell script
+* disable_root.sh : Shell script
+
+
