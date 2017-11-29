@@ -10,6 +10,6 @@ Source of the vuln:
 https://www.wired.com/story/macos-high-sierra-hack-root/
 
 * runme.app : The compiled shell script
-* disable_root.sh : Shell script
+* disable_root.sh : The shell script
 
 
