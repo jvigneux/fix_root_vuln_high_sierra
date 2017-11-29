@@ -13,7 +13,8 @@ https://www.wired.com/story/macos-high-sierra-hack-root/
 * disable_root.sh : The shell script
 
 *** Update ***
+
 Apple released a fix today:
 https://support.apple.com/en-ca/HT208315
 (Use it instead of this)
-
+***************
